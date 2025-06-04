@@ -12,4 +12,4 @@ Este repositório reúne uma coleção de projetos desenvolvidos por Gabriel Hen
 
 ## 👤 Sobre o Autor
 
-Gabriel Henrique Menoncin é Assistente de TI na TopDuo Informática, com experiência em montagem e manutenção de computadores, além de habilidades em softwares como Word, PowerPoint, Excel, Adobe After Effects e Adobe Photoshop. Para saber mais sobre o meu perfil profissional, acesse seu [LinkedIn](https://br.linkedin.com/in/gabrielmenoncin).
+Gabriel Henrique Menoncin é Assistente de TI na TopDuo Informática, com experiência em montagem e manutenção de computadores, além de habilidades em softwares Adobe After Effects e Adobe Photoshop. Para saber mais sobre o meu perfil profissional, acesse: [LinkedIn](https://br.linkedin.com/in/gabrielmenoncin).
